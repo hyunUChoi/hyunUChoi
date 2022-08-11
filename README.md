@@ -12,26 +12,26 @@
 
 ## 🛠 Technical Skills
 ### Language
-<code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="64"></code>
-<code><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="64"></code> <br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="90"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="90"></code> <br>
 
 ### DataBase
-![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) <br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184141486-4bf19ebd-fb47-499a-b3f9-8d41b7848347.png" width="90"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184141815-ae301f1f-dcc1-42bd-bc32-f0e6f4133d6e.png" width="90"></code> <br>
 
 ### Server
-![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white) <br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184142202-7ba543ba-4d10-4bb3-b9eb-8583eab313a2.png" width="90"></code> <br>
 
 ### Tools
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white)
-![Mybatis Badge](https://img.shields.io/badge/Mybatis-007396?&style=flat-square&logo=Mybatis&logoColor=white)
-![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?&style=flat-square&logo=EclipseIDE&logoColor=white)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?&style=flat-square&logo=Jupyter&logoColor=white)<br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184142829-21493524-27b5-449d-b78b-0336d38c8254.png" width="90"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184143793-dd0b0887-6637-4711-9032-4579755be049.png" width="90"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184144319-1a691015-15ce-4994-b5f7-e90e68a35e7f.png" width="90"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184144675-2ca88574-bd43-4ea8-ab07-526fe54dcf91.png" width="70"></code> <br>
 
 ### Collaboration
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-<br><br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184145011-8d257612-5627-4311-a826-a6a0286c1d42.png" width="70"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184145273-5129039b-bd0d-4c80-a618-46705913a7c6.png" width="90"></code> <br>
+<br>
 
 ## 💼 Career
 | **Type** | **Date** | **Contents** | **Organizaition** |
