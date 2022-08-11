@@ -12,8 +12,8 @@
 
 ## 🛠 Technical Skills
 ### Language
-![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) <br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="64"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="64"></code> <br>
 
 ### DataBase
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
