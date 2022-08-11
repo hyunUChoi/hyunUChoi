@@ -12,8 +12,8 @@
 
 ## 🛠 Technical Skills
 ### Language
-<code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="50"></code>
-<code><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="90"></code> <br>
+<code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="70"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="70"></code> <br>
 
 ### DataBase
 <code><img src="https://user-images.githubusercontent.com/103620466/184141486-4bf19ebd-fb47-499a-b3f9-8d41b7848347.png" width="90"></code>
