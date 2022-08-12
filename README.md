@@ -22,14 +22,15 @@
 ### Server
 <code><img src="https://user-images.githubusercontent.com/103620466/184142202-7ba543ba-4d10-4bb3-b9eb-8583eab313a2.png" width="70"></code> <br>
 
-### Tools
+### F/W Tools
 <code><img src="https://user-images.githubusercontent.com/103620466/184142829-21493524-27b5-449d-b78b-0336d38c8254.png" width="70"></code>
-<code><img src="https://user-images.githubusercontent.com/103620466/184143793-dd0b0887-6637-4711-9032-4579755be049.png" width="70"></code>
+<code><img src="https://user-images.githubusercontent.com/103620466/184143793-dd0b0887-6637-4711-9032-4579755be049.png" width="70"></code> <br>
+
+### Tools
 <code><img src="https://user-images.githubusercontent.com/103620466/184144319-1a691015-15ce-4994-b5f7-e90e68a35e7f.png" width="70"></code>
 <code><img src="https://user-images.githubusercontent.com/103620466/184144675-2ca88574-bd43-4ea8-ab07-526fe54dcf91.png" width="50"></code> <br>
 
 ### Collaboration
-<code><img src="https://user-images.githubusercontent.com/103620466/184145011-8d257612-5627-4311-a826-a6a0286c1d42.png" width="50"></code>
 <code><img src="https://user-images.githubusercontent.com/103620466/184145273-5129039b-bd0d-4c80-a618-46705913a7c6.png" width="70"></code> <br>
 <br>
 
