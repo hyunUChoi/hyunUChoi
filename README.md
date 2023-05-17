@@ -11,8 +11,11 @@
 <br>
 
 ## 🛠 Technical Skills
-### Language
-<code><img src="https://user-images.githubusercontent.com/103620466/184140341-0ece618b-551d-4dc5-baad-606c94dbc263.png" width="70"></code>
+### Front-End
+<code><img src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
+
+### Back-End
+<code><img src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <code><img src="https://user-images.githubusercontent.com/103620466/184139621-5190bdf6-900b-4e14-b502-454cfb3ff237.png" width="70"></code> <br>
 
 ### DataBase
@@ -30,6 +33,7 @@
 ## 💼 Career
 | **Type** | **Date** | **Contents** | **Organizaition** |
 |:--------:|:--------:|:--------:|:--------:|
+| *Work Experience* | 2022.09 ~ | Developer | OpenNote |
 | *Education* | 2022.03 ~ 2022.08 | Bigdata Analysis Developer Program | Smart Human Resources Development |
 | *Work Experience* | 2019.07 ~ 2022.02 | Quality Management | Sooseok |
 | *Experience* | 2018.10 ~ 2018.11| 아동-청소년 행복지수 연구 | Donnguk University |
