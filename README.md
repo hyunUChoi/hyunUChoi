@@ -29,6 +29,5 @@
 |:--------:|:--------:|:--------:|:--------:|
 | *Work Experience* | 2022.09 ~ | Developer | OpenNote |
 | *Education* | 2022.03 ~ 2022.08 | Bigdata Analysis Developer Program | Smart Human Resources Development |
-| *Work Experience* | 2019.07 ~ 2022.02 | Quality Management | Sooseok |
 | *Experience* | 2018.10 ~ 2018.11| 아동-청소년 행복지수 연구 | Donnguk University |
 | *Experience* | 2018.06 ~ 2018.07 | 경북아동 건강 현황조사 | Donnguk University |
