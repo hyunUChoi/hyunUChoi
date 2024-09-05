@@ -19,6 +19,9 @@
 ## 🔥 Study
 <code><img src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src ="https://img.shields.io/badge/JPA-212121.svg?&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"></code><br><br>
 <code><img src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/></code>
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HyunUChoi&theme=dark)](https://git.io/streak-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunUChoi&show_icons=true&theme=radical)-->
 <!--
 ## 🛠 Technical Skills
